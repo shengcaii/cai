@@ -1,11 +1,23 @@
-HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
-=======
+This is a work-in-progress portfolio website showcasing my skills and projects. I'm a civil engineering student currently building this with Next.js.
 
-# Tools used #
-* HTML, CSS and JavaScript
-* [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-* [Font Awesome 5](https://fontawesome.com/)
-* [google map](https://www.embed-map.com/)
+**Current Status:**
 
-This is the [live demo](https://brad-portfolio.netlify.app/) of the project . 
+* Raw
 
+**Planned Features:**
+
+* Add more UI elements and animations
+* Implement interactive features for projects
+* Integrate a contact form
+
+**Tech Stack:**
+
+* Next.js
+
+**Clone and Setup:**
+
+1. Fork this repository.
+2. Clone your forked repository to your local machine.
+3. Run `npm install` to install the project's dependencies.
+
+I'm actively working on this project and will be adding new features and content regularly. Stay tuned!
